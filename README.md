@@ -15,3 +15,5 @@ data handling, robust analysis, and insightful visualizations to streamline the 
 - Machine Learning Algorithm : A Machine learning model to predict the Primary Skill of the candidates based on the resume content is developed using XGBoost aalgorithm. The model's performance is also presented via Classification report and Confusion matrix. This model will further improve the decision to select the right role for the candidate.
 ### Future Enhancement
 Future enhancements could include integrating real-time resume submission through web forms, extracting information from unstructured and multi-lingual resume, and refining the machine learning models for better skill prediction.
+
+### Note: You can find the workflow, codes screenshot and various outputs in the documentation too.
