@@ -1,4 +1,5 @@
 ## RESUME PARSER MODEL
+- Live dashboard: https://app.powerbi.com/reportEmbed?reportId=50962eaa-18b3-44fe-a200-357b38557b18&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd
 ### Introduction
 In today's fast-paced job market, companies receive a large number of resumes for every open position, making it time-consuming and labor-intensive for HR professionals to manually review 
 and assess each resume. Extracting key information such as candidate details, skills, experience etc. from diverse resume formats can be cumbersome and prone to errors.
